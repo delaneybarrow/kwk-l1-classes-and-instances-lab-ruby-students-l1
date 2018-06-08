@@ -12,8 +12,9 @@ end
 fido = Dog.new 
 snoopy = Dog.new 
 lassie = Dog.new
-fido.name 
-snoopy.name
-lassie.name
+fido.name = "fido"
+snoopy.name = "snoopy"
+lassie.name = "lassie"
+puts fido.name
 
 
